@@ -27,4 +27,3 @@ The Tableau Workbook (`.twbx`) is available in this repository. To view the full
 
 **Data Source:** [Sample Superstore Dataset (2014–2017 Historical Data)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 **Prepared for:** 2025 Strategic Reporting
-[**View Live E-Commerce Strategy Report on Tableau Public**](https://public.tableau.com/app/profile/reyhan.cankaya/viz/E-CommerceStrategicPerformanceReview2025StrategyBrief/SalesandProfitMarginTrend)
